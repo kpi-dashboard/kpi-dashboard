@@ -1,0 +1,3 @@
+{
+    "php.validate.executablePath": "docker exec -f php-1 php"
+}
